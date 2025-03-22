@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "projetoEmNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/RubemRibeiro/ServidorNode.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubemRibeiro/ServidorNode.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "rubemribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubemRibeiro/ServidorNode/issues"
+  },
+  "homepage": "https://github.com/RubemRibeiro/ServidorNode#readme"
+}
