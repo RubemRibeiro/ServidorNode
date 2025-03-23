@@ -12,10 +12,11 @@ const stats = {
     TotalRAM: `${parseInt(tRAM)} GB`,
     FreeRAM: `${parseInt(fRAM)} GB`,
     Usage: `${usage.toFixed(2)}%`
-}
+};
+
 console.clear();
 console.table(stats);
-    
+exports.stats = stats;
 }, 1000);
 
 
